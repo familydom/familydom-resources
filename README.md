@@ -1,5 +1,17 @@
 # FamilyDom Resources
 
-Official downloadable resources for FamilyDom.
+Official downloadable materials from FamilyDom.
 
-Partnership presentations, guides and public documents.
+## Partnership
+
+📄 Partnership Presentation (English)
+
+📄 Partnerschaftspräsentation (Deutsch)
+
+## Families
+
+Coming soon
+
+## Independent Care Professionals
+
+Coming soon
